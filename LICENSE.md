@@ -1,4 +1,4 @@
-#  
+#  Alfred for macOS vip Extension: widgets & goal tracking offers the most advanced Alfred for macOS extension, with widgets and goal tracking. Ideal for professionals.
 
 
 
